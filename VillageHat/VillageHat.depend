@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1765406452 source:c:\cb_projects\villagehat\main.cpp
+	<GL/glut.h>
+	<GL/glu.h>
+	<vector>
+	<cmath>
+	"Environment.h"
+	"Person.h"
+	"Shop.h"
+	"ShopKeeper.h"
+	"Hut.h"
+	"Woman.h"
+	"Common.h"
+
+1764692627 c:\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1764692627 c:\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1764692627 c:\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1765406178 c:\cb_projects\villagehat\shop.h
+
+1765406178 c:\cb_projects\villagehat\person.h
+
+1765406178 c:\cb_projects\villagehat\environment.h
+
+1765406452 source:c:\cb_projects\villagehat\environment.cpp
+	<GL/glut.h>
+	<GL/glu.h>
+	"Environment.h"
+	"Common.h"
+
+1765406452 source:c:\cb_projects\villagehat\person.cpp
+	<GL/glut.h>
+	<GL/glu.h>
+	"Person.h"
+	"Common.h"
+
+1765406452 source:c:\cb_projects\villagehat\shop.cpp
+	<GL/glut.h>
+	<GL/glu.h>
+	"Shop.h"
+	"Common.h"
+
+1765406178 c:\cb_projects\villagehat\shopkeeper.h
+
+1765406452 source:c:\cb_projects\villagehat\shopkeeper.cpp
+	<GL/glut.h>
+	<GL/glu.h>
+	"ShopKeeper.h"
+	"Common.h"
+
+1764692627 c:\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1765406776 c:\cb_projects\villagehat\common.h
+
+1765406178 c:\cb_projects\villagehat\hut.h
+
+1765406178 c:\cb_projects\villagehat\woman.h
+
